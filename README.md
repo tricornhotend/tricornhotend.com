@@ -2,7 +2,7 @@ This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/
 
 # Hot-end Parts BOM
 
-# Proprietary (probably some parts in here I could make opensource)
+# Proprietary
 - Hot-block
 - Heat-sink
 - Heaters (D4x40mm, can be self sourced but uncommon and likely special order)
