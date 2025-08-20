@@ -1,7 +1,7 @@
 ![pictures of the hotend cad](https://tricornhotend.com/tricorns.png)
 
 Tricorn is a modern "open-source" hotend featuring mostly standard components while introducing some new ones.
-- Inverted heatbreak (Similar to [V9](https://www.v9hotend.com/)) Tricorn keeps the heatbreak threads out of the meltzone generally improving thermals.
+- Inverted heatbreak Tricorn keeps the heatbreak threads out of the meltzone generally improving thermals.
 - 4mm Heater cartridges, more combined surface area than 6mm, replacable.
 - No screw smaller than m3, everything is either m4 or m3.
 - M3 Dragon mounting
@@ -43,5 +43,9 @@ Physical units are based off of the CAD, materials and some bits might be differ
 - Heatsinks - 6061 Aluminum + (Anodize rose gold)
 - Hotblock - UNS C18150 (Copper) + (Electroless Nickel)
 - Fasteners - 316 Stainless Steel
+
+# Some other neat hotends
+[V9](https://www.v9hotend.com/) - Inverted heatbreak & Steel
+[Chube](https://chubehotend.com/) - Practically indestructible
 
 This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Commercial licenses available upon request.
