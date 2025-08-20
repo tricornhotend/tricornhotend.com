@@ -12,6 +12,7 @@ Tricorn is a modern "open-source" hotend featuring mostly standard components wh
   - (Short) ~41mm with a nozzle, 35.5mm without.
 
 [Tricorn Discord Server](https://discord.gg/vBZVGa6SZy) | [Tricorn Website](https://tricornhotend.com)
+This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Commercial licenses available upon request.
 
 # Authorized vendors
 Physical units are based off of the CAD, materials and some bits might be different per vendor so be sure to check!
@@ -45,8 +46,5 @@ Physical units are based off of the CAD, materials and some bits might be differ
 - Fasteners - 316 Stainless Steel
 
 # Some other neat hotends
-[V9](https://www.v9hotend.com/) - Inverted heatbreak & Steel
-
-[Chube](https://chubehotend.com/) - Practically indestructible
-
-This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Commercial licenses available upon request.
+[V9](https://www.v9hotend.com/) - Inverted heatbreak & Steel\
+[Chube](https://chubehotend.com/) - Practically indestructible\
