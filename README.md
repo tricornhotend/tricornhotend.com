@@ -1,5 +1,3 @@
-This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Commercial licenses available upon request.
-
 ![pictures of the hotend cad](https://tricornhotend.com/tricorns.png)
 
 Tricorn is a modern "open-source" hotend featuring mostly standard components while introducing some new ones.
@@ -45,3 +43,5 @@ Physical units are based off of the CAD, materials and some bits might be differ
 - Heatsinks - 6061 Aluminum + (Anodize rose gold)
 - Hotblock - UNS C18150 (Copper) + (Electroless Nickel)
 - Fasteners - 316 Stainless Steel
+
+This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Commercial licenses available upon request.
