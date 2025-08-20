@@ -46,6 +46,7 @@ Physical units are based off of the CAD, materials and some bits might be differ
 
 # Some other neat hotends
 [V9](https://www.v9hotend.com/) - Inverted heatbreak & Steel
+
 [Chube](https://chubehotend.com/) - Practically indestructible
 
 This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Commercial licenses available upon request.
