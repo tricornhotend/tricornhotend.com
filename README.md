@@ -20,7 +20,7 @@ Physical units are based off of the CAD, materials and some bits might be differ
 
 | Vendor | Link | Long | Short |
 |---|---|---|---|
-| RaccoonWorks | [discord.gg](https://discord.gg/hJuceaan) | ✅ | ✅ |
+| RaccoonWorks | [discord](https://discord.gg/hJuceaan) | ✅ | ✅ |
 
 # Hot-end Parts BOM
 
