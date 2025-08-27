@@ -20,6 +20,7 @@ Physical units are based off of the CAD, materials and some bits might be differ
 
 | Vendor | Link | Long | Short |
 |---|---|---|---|
+| Fabreeko | [fabreeko.com](https://fabreeko.com) | | |
 | RaccoonWorks | [discord](https://discord.gg/3N8Wkf6s2Z) | ✅ | ❌ |
 
 # Hot-end Parts BOM
