@@ -16,12 +16,14 @@ Tricorn is a modern "open-source" hotend featuring mostly standard components wh
 This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Commercial licenses available upon request.
 
 # Authorized vendors
-Physical units are based off of the CAD, materials and some bits might be different per vendor so be sure to check!
+Physical units are based directly off of the CAD, materials and some bits might be different per vendor so be sure to check!
 
 | Vendor | Link | Long | Short |
 |---|---|---|---|
-| Fabreeko | [fabreeko.com](https://fabreeko.com) | | |
-| RaccoonWorks | [discord](https://discord.gg/3N8Wkf6s2Z) | ✅ | ❌ |
+| Fabreeko | [fabreeko.com](https://www.fabreeko.com/products/tricorn-high-flow-open-source-hotend) | ✅ | ⏲️ |
+| Lettucehead3d | [lettucehead3d.com](https://lettucehead3d.com/product/tricorn-hotend-long-assembled-bn-thermal-paste/) | ✅ | ❓ |
+| Excit3D | [excit3dprints.com](https://excit3dprints.com/tricorn-high-flow-hotend-long-assembled-heaters-not-installed-but-included) | ✅ | ❓ |
+| RaccoonWorks | [discord](https://discord.gg/3N8Wkf6s2Z) | Manufacturer | Manufacturer |
 
 # Toolhead Support
 [Takeoff toolhead](https://github.com/Kizime123/Takeoff-Toolhead/tree/main) Requires drilling out holes to m3 with [Drilling jig]()
