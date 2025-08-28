@@ -23,6 +23,10 @@ Physical units are based off of the CAD, materials and some bits might be differ
 | Fabreeko | [fabreeko.com](https://fabreeko.com) | | |
 | RaccoonWorks | [discord](https://discord.gg/3N8Wkf6s2Z) | ✅ | ❌ |
 
+# Toolhead Support
+[Takeoff toolhead](https://github.com/Kizime123/Takeoff-Toolhead/tree/main) (Requires drilling out holes to m3 with [Drilling jig]()
+[Dual 3628 K3 toolhead](https://github.com/stackingdeezlayers/Annex-K3-SLM-Toolhead)
+
 # Hot-end Parts BOM
 
 # Proprietary
