@@ -21,7 +21,7 @@ Physical units are based directly off of the CAD, materials and some bits might 
 | Vendor | Link | Long | Short |
 |---|---|---|---|
 | Fabreeko | [fabreeko.com](https://www.fabreeko.com/products/tricorn-high-flow-open-source-hotend) | ✅ | ⏲️ |
-| Lettucehead3d | [lettucehead3d.com](https://lettucehead3d.com/product/tricorn-hotend-long-assembled-bn-thermal-paste/) | ✅ | ❓ |
+| Lettucehead3d | [lettucehead3d.com](https://lettucehead3d.com/product/tricorn-hotend-long-assembled-bn-thermal-paste/) | ✅ | ⏲️ |
 | Excit3D | [excit3dprints.com](https://excit3dprints.com/tricorn-high-flow-hotend-long-assembled-heaters-not-installed-but-included) | ✅ | ❓ |
 | RaccoonWorks | [discord](https://discord.gg/3N8Wkf6s2Z) | Manufacturer | Manufacturer |
 
