@@ -13,7 +13,12 @@ Tricorn is a modern "open-source" hotend featuring mostly standard components wh
 
 [Tricorn Discord Server](https://discord.gg/vBZVGa6SZy) | [Tricorn Website](https://tricornhotend.com)
 
-This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Commercial licenses available upon request.
+This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Commercial licenses available upon request.  
+Also here is a link to the [Tricorn patent](https://youtu.be/dQw4w9WgXcQ).
+<details>
+<summary></summary>
+P.S. There are no patents, I am poor.
+</details>
 
 # Authorized vendors
 Physical units are based directly off of the CAD, materials and some bits might be different per vendor so be sure to check!
