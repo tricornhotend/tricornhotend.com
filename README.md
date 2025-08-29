@@ -1,6 +1,6 @@
 ![pictures of the hotend cad](https://tricornhotend.com/Tricornbanner.png)
 
-Tricorn is a modern "open-source" hotend featuring mostly standard components while introducing some new ones.
+Tricorn is a modern "open-design" hotend featuring mostly standard components while introducing some new ones.
 - Inverted heatbreak Tricorn keeps the heatbreak threads out of the meltzone generally improving thermals.
 - 4mm Heater cartridges, more combined surface area than 6mm, replacable.
 - No screw smaller than m3, everything is either m4 or m3.
@@ -66,5 +66,3 @@ Maybe Tricorn doesn't fit what you are looking for, maybe check out these!
   
 [Chube](https://chubehotend.com/) - Practically indestructible  
 [V9](https://www.v9hotend.com/) - Inverted heatbreak & Steel
-
-### "Please note things within quotation marks may or may not be true and accurate"
