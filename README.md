@@ -66,3 +66,5 @@ Maybe Tricorn doesn't fit what you are looking for, maybe check out these!
   
 [Chube](https://chubehotend.com/) - Practically indestructible  
 [V9](https://www.v9hotend.com/) - Inverted heatbreak & Steel
+
+### "Please note things within quotation marks may or may not be true and accurate"
