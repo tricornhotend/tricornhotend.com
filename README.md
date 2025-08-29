@@ -17,7 +17,7 @@ This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/
 Also here is a link to the [Tricorn patent](https://youtu.be/dQw4w9WgXcQ).
 <details>
 <summary></summary>
-P.S. There are no patents, I am poor.
+P.S. There are no patents, I am "poor".
 </details>
 
 # Authorized vendors
