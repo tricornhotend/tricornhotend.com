@@ -5,6 +5,7 @@ Tricorn is a modern "open-design" hotend featuring mostly standard components wh
 - 4mm Heater cartridges, more combined surface area than 6mm, replacable.
 - No screw smaller than m3, everything is either m4 or m3.
 - M3 Dragon mounting
+- V6 Nozzle Standard
 - Air (Fan) or Conduction (Metal plate mounted)
    - (Long) With Hotblock at 260c the Heatsink is passively 118c when unmounted/uncooled in roomtemp env.
 - A Long meltzone for it's size.
