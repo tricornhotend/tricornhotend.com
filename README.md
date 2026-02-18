@@ -11,8 +11,7 @@ Tricorn is a modern "open-design" hotend featuring mostly standard components wh
 - A Long meltzone for it's size.
   - (Long) ~53.5mm with a nozzle, 48mm without.
   - (Short) ~41mm with a nozzle, 35.5mm without.
-
-[Tricorn Discord Server](https://discord.gg/vBZVGa6SZy) | [Tricorn Website](https://tricornhotend.com)
+[Tricorn Website](https://tricornhotend.com)
 
 This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Commercial licenses available upon request.  
 
@@ -53,6 +52,10 @@ Physical units are based directly off of the CAD, materials and some bits might 
 - Heatsinks - 6061 Aluminum + (Anodize rose gold)
 - Hotblock - UNS C18150 (Copper) + (Electroless Nickel)
 - Fasteners - 316 Stainless Steel
+
+# IRC
+You can join from your browser at [https://oxee.chat](https://oxee.chat) and then use /join #tricorn,  
+OR if you have an IRC client join at ``irc.oxee.chat:6697``, Thanks!
 
 # Credit
 [Synoon](https://synoon.portfoliobox.net/) - Banner render
