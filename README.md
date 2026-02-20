@@ -23,7 +23,7 @@ Physical units are based directly off of the CAD, materials and some bits might 
 | Fabreeko | [fabreeko.com](https://www.fabreeko.com/products/tricorn-high-flow-open-source-hotend) | ✅ | ⏲️ |
 | Lettucehead3d | [lettucehead3d.com](https://lettucehead3d.com/product/tricorn-hotend-long-assembled-bn-thermal-paste/) | ✅ | ⏲️ |
 | Excit3D | [excit3dprints.com](https://excit3dprints.com/tricorn-hotend) | ✅ | ⏲️ |
-| RaccoonWorks | [discord](https://discord.gg/3N8Wkf6s2Z) | Manufacturer | Manufacturer |
+| RaccoonWorks |  | Manufacturer | Manufacturer |
 
 # Toolhead Support
 [Takeoff toolhead](https://github.com/Kizime123/Takeoff-Toolhead/tree/main) Requires drilling out holes to m3 with [Drilling jig]()  
