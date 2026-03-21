@@ -17,7 +17,7 @@ This project is available under [CC0 1.0 Universal](https://creativecommons.org/
 Previous versions were licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) and may continue to be used under those terms.  
 
 # Awesome vendors
-Physical units are based directly off of the CAD, materials and some bits might be different per vendor so be sure to check!
+These are vendors I personally trust to provide a quality version of the hotend, while it can be purchased elsewhere I recommend you purchase from them!
 
 | Vendor | Link | Long | Short |
 |---|---|---|---|
