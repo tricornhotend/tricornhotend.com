@@ -26,7 +26,8 @@ Physical units are based directly off of the CAD, materials and some bits might 
 
 # Donate
 Like the hotend? Doing something cool with the concept? Want to support me?  
-Monero Address: 83Nsv6FZMoSZKe7nZ3qf2NU5qsoxWQkajZAaKB2igmacThLa9FrcFs1NkDW3Y3ECSjUUizs1WiD5s6qKXBC8JYtX3iZS8mH  
+Monero Address: ``83Nsv6FZMoSZKe7nZ3qf2NU5qsoxWQkajZAaKB2igmacThLa9FrcFs1NkDW3Y3ECSjUUizs1WiD5s6qKXBC8JYtX3iZS8mH``  
+Protect 🏳️‍⚧️ rights: [https://action.aclu.org/give/now](https://action.aclu.org/give/now)
 
 # Toolhead Support
 [Takeoff toolhead](https://github.com/Kizime123/Takeoff-Toolhead/tree/main) Requires drilling out holes to m3 with a drilling jig.
