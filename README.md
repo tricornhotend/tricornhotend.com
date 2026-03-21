@@ -1,6 +1,6 @@
 ![pictures of the hotend cad](https://tricornhotend.com/Tricornbanner.png)
 
-Tricorn is a modern "open-design" hotend featuring mostly standard components while introducing some new ones.
+Tricorn is a modern open-source hotend featuring mostly standard components while introducing some new ones.
 - Inverted heatbreak Tricorn keeps the heatbreak threads out of the meltzone generally improving thermals.
 - 4mm Heater cartridges, more combined surface area than 6mm, replacable.
 - No screw smaller than m3, everything is either m4 or m3.
@@ -13,20 +13,23 @@ Tricorn is a modern "open-design" hotend featuring mostly standard components wh
   - (Short) ~41mm with a nozzle, 35.5mm without.
 [Tricorn Website](https://tricornhotend.com)
 
-This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Commercial licenses available upon request.  
+This project is available under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+Previous versions were licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) and may continue to be used under those terms.
 
-# Authorized vendors
+# Awesome vendors
 Physical units are based directly off of the CAD, materials and some bits might be different per vendor so be sure to check!
 
 | Vendor | Link | Long | Short |
 |---|---|---|---|
-| Fabreeko | [fabreeko.com](https://www.fabreeko.com/products/tricorn-high-flow-open-source-hotend) | ✅ | ⏲️ |
 | Lettucehead3d | [lettucehead3d.com](https://lettucehead3d.com/product/tricorn-hotend-long-assembled-bn-thermal-paste/) | ✅ | ⏲️ |
 | Excit3D | [excit3dprints.com](https://excit3dprints.com/tricorn-hotend) | ✅ | ⏲️ |
-| RaccoonWorks |  | Manufacturer | Manufacturer |
+
+# Donate
+Like the hotend? Doing something cool with the concept? Want to support me?
+Monero Address: 83Nsv6FZMoSZKe7nZ3qf2NU5qsoxWQkajZAaKB2igmacThLa9FrcFs1NkDW3Y3ECSjUUizs1WiD5s6qKXBC8JYtX3iZS8mH
 
 # Toolhead Support
-[Takeoff toolhead](https://github.com/Kizime123/Takeoff-Toolhead/tree/main) Requires drilling out holes to m3 with [Drilling jig]()  
+[Takeoff toolhead](https://github.com/Kizime123/Takeoff-Toolhead/tree/main) Requires drilling out holes to m3 with a drilling jig.
 [Dual 3628 K3 toolhead](https://github.com/stackingdeezlayers/Annex-K3-SLM-Toolhead)
 
 # Hot-end Parts BOM
