@@ -21,6 +21,7 @@ These are vendors I personally trust to provide a quality version of the hotend,
 
 | Vendor | Link | Long | Short |
 |---|---|---|---|
+| Fabreeko | [fabreeko.com](https://www.fabreeko.com/products/tricorn-high-flow-open-source-hotend) | ✅ | ⏲️ |
 | Lettucehead3d | [lettucehead3d.com](https://lettucehead3d.com/product/tricorn-hotend-long-assembled-bn-thermal-paste/) | ✅ | ⏲️ |
 | Excit3D | [excit3dprints.com](https://excit3dprints.com/tricorn-hotend) | ✅ | ⏲️ |
 
