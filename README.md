@@ -1,4 +1,4 @@
-![pictures of the hotend cad](https://tricornhotend.com/Tricornbanner.png)
+![pictures of the hotend cad](https://tricornhotend.com/Tricornbanner2.png)
 
 Tricorn is a modern open-source hotend featuring mostly standard components while introducing some new ones.
 - Inverted heatbreak Tricorn keeps the heatbreak threads out of the meltzone generally improving thermals.
