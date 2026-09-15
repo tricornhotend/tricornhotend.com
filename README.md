@@ -21,18 +21,16 @@ These are vendors I personally trust to provide a quality version of the hotend,
 
 | Vendor | Link | Long | Short |
 |---|---|---|---|
-| Fabreeko | [fabreeko.com](https://www.fabreeko.com/products/tricorn-high-flow-open-source-hotend) | ✅ | ⏲️ |
-| Lettucehead3d | [lettucehead3d.com](https://lettucehead3d.com/product/tricorn-hotend-long-assembled-bn-thermal-paste/) | ✅ | ⏲️ |
 | Excit3D | [excit3dprints.com](https://excit3d.shop/shop/tricorn-hotend) | ✅ | ⏲️ |
 
 # Donate
-Like the hotend? Doing something cool with the concept? Want to support me?  
-Monero Address: ``83Nsv6FZMoSZKe7nZ3qf2NU5qsoxWQkajZAaKB2igmacThLa9FrcFs1NkDW3Y3ECSjUUizs1WiD5s6qKXBC8JYtX3iZS8mH``  
+Like the hotend? Doing something cool with the concept? Want to support me?
 Protect 🏳️‍⚧️ rights: [https://action.aclu.org/give/now](https://action.aclu.org/give/now)
 
 # Toolhead Support
 [Takeoff toolhead](https://github.com/Kizime123/Takeoff-Toolhead/tree/main) Requires drilling out holes to m3 with a drilling jig.
 [Dual 3628 K3 toolhead](https://github.com/stackingdeezlayers/Annex-K3-SLM-Toolhead)
+["Trinicorn"](https://github.com/Martin-Ivanc/Trinicorn-Toolhead)
 
 # Hot-end Parts BOM
 
@@ -57,10 +55,6 @@ Protect 🏳️‍⚧️ rights: [https://action.aclu.org/give/now](https://acti
 - Heatsinks - 6061 Aluminum + (Anodize rose gold)
 - Hotblock - UNS C18150 (Copper) + (Electroless Nickel)
 - Fasteners - 316 Stainless Steel
-
-# IRC
-You can join from your browser at [https://oxee.chat](https://oxee.chat) and then use /join #tricorn,  
-OR if you have an IRC client join at ``irc.oxee.chat:6697``, Thanks!
 
 # Credit
 [Synoon](https://synoon.portfoliobox.net/) - Banner render
