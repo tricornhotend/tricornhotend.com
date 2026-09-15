@@ -28,9 +28,9 @@ Like the hotend? Doing something cool with the concept? Want to support me?
 Protect 🏳️‍⚧️ rights: [https://action.aclu.org/give/now](https://action.aclu.org/give/now)
 
 # Toolhead Support
-[Takeoff toolhead](https://github.com/Kizime123/Takeoff-Toolhead/tree/main) Requires drilling out holes to m3 with a drilling jig.
-[Dual 3628 K3 toolhead](https://github.com/stackingdeezlayers/Annex-K3-SLM-Toolhead)
-["Trinicorn"](https://github.com/Martin-Ivanc/Trinicorn-Toolhead)
+- [Takeoff toolhead](https://github.com/Kizime123/Takeoff-Toolhead/tree/main) Requires drilling out holes to m3 with a drilling jig.
+- [Dual 3628 K3 toolhead](https://github.com/stackingdeezlayers/Annex-K3-SLM-Toolhead)
+- ["Trinicorn"](https://github.com/Martin-Ivanc/Trinicorn-Toolhead)
 
 # Hot-end Parts BOM
 
