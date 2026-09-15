@@ -66,6 +66,4 @@ Like the hotend? Doing something cool with the concept? Want to support me?
 Protect 🏳️‍⚧️ rights: [https://action.aclu.org/give/now](https://action.aclu.org/give/now)
 
 # Contact
-"okuhno" on Discord.  
-or
-whatisupmyhomie@tricornhotend.com
+"okuhno" on Discord or whatisupmyhomie@tricornhotend.com
